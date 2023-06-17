@@ -1,5 +1,4 @@
-# url-shortener
-# Flask URL Shortener API
+# URL Shortener API
 
 This is a Flask API that provides URL shortening functionality
 
