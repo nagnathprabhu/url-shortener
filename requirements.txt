@@ -1,0 +1,10 @@
+redis~=4.5.4
+psycopg2-binary
+flask_marshmallow
+flask_caching
+load_dotenv
+flask_sqlalchemy
+flask~=2.3.1
+flask_restful
+marshmallow-sqlalchemy
+python-dotenv~=1.0.0
